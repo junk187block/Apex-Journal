@@ -1,7 +1,8 @@
 import React from "react";
+import Journal from "./components/Journal";
 
 function App() {
-  return <h1>Hello, World!</h1>;
+  return <Journal />;
 }
 
 export default App;
